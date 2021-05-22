@@ -10,6 +10,6 @@ Suppose we know an interval [a, b] such that f (a) f (b) < 0.
 ### Efficiency
 
 - Time complexity  O(log(n)):
-   at each iteration we divide the initial interval in half
+  - at each iteration we divide the initial interval in half
 - The space efficiency O(1) 
-   No temporary data structures are used in order to arrive at the solution.
+  - No temporary data structures are used in order to arrive at the solution.
