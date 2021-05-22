@@ -4,7 +4,6 @@ since we assume that all the elements of the matrix are in the range [0, 9], we 
 
 ### Efficiency
 
-- Time complexity  O(n):
-  - at each iteration we divide the initial interval in half
+- Time complexity  O(n)
 - The space Complexity O(1) 
  
