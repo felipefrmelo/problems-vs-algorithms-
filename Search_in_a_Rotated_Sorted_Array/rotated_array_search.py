@@ -1,9 +1,4 @@
-
-
-from itertools import count
 import random
-from typing import Counter
-
 
 def checksIfValueIsBetweenaRange(
     target, smaller, bigger): return target >= smaller and target <= bigger
