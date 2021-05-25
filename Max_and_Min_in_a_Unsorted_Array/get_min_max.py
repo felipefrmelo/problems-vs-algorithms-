@@ -24,7 +24,6 @@ def get_min_max(ints):
 
 # Example Test Case of Ten Integers
 
-l = [i for i in range(0, 10)]  # a list containing 0 - 9
 
 
 def test_cases(input_case):
